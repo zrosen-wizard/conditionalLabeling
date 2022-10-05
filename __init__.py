@@ -1,0 +1,1 @@
+from .booleanAlgebraMethod import label
